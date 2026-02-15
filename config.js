@@ -6,7 +6,7 @@ module.exports = {
   supportServer: "https://discord.gg/37p6HBs4r4",
 
   activity: {
-    name: "music",
+    name: "Music",
     type: "LISTENING" // PLAYING, LISTENING, WATCHING, STREAMING, COMPETING
   },
 
